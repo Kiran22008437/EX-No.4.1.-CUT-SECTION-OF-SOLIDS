@@ -42,6 +42,8 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+[4.2 Kiran EDM.pdf](https://github.com/Kiran22008437/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/files/10410733/4.2.Kiran.EDM.pdf)
+
 ## RESULT:
 
 Thus, the cut section for solid model is created.
