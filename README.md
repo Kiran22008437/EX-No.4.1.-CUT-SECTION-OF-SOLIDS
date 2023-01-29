@@ -41,7 +41,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
-![4 2 Kiran EDM_page-0001](https://user-images.githubusercontent.com/118668751/212302006-2d300be2-d1d1-4b68-824b-de5f0001ef6c.jpg)
+![image](https://user-images.githubusercontent.com/118668751/215331134-d9cb9aec-8e28-496e-924c-cd8ef3ab3212.png)
+
 
 ## RESULT:
 
